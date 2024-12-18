@@ -1,4 +1,4 @@
-4416
+4424
 87C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\js-yaml\lib\schema.js133789126665173508 0
 84C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\.package-lock.json133789156485737471 0
 97C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\caniuse-lite\data\regions\MT.js133789126694827287 0
@@ -16,7 +16,7 @@
 104C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\type-fest\source\iterable-element.d.ts133789126663977705 0
 83C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\semver\preload.js133789126666653910 0
 91C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\dotenv\lib\env-options.js133789126659775581 0
-65C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\package.json133789156484735071 0
+65C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\package.json133789196774250022 0
 108C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\entities\lib\esm\decode_codepoint.d.ts.map133789126664800882 0
 95C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\cosmiconfig\dist\merge.js.map133789126667172342 0
 70C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\package-lock.json133789156485509091 0
@@ -38,7 +38,7 @@
 96C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\semver\functions\prerelease.js133789126666875690 0
 132C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-html.d.ts133789126664800882 0
 119C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\@swc\helpers\_\_async_generator_delegate\package.json133789126681473870 0
-57C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist133789182292791076 1
+57C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist133789188673743780 1
 108C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\utility-types\dist\aliases-and-guards.d.ts133789126663673810 0
 83C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\has-flag\index.js133789126658576084 0
 116C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\posthtml\node_modules\entities\lib\encode.d.ts.map133789126664076452 0
@@ -47,7 +47,7 @@
 108C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\@parcel\core\lib\requests\TargetRequest.js133789126699782403 0
 88C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\semver\functions\eq.js133789126662973292 0
 114C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node133789126693876182 0
-63C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\.gitignore133789134990633782 0
+63C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\.gitignore133789189455326532 0
 97C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\caniuse-lite\data\regions\ER.js133789126686227708 0
 65C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules133789156484567072 1
 110C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133789126668959962 0
@@ -62,7 +62,7 @@
 114C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js.flow133789126679881654 0
 85C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\type-fest\base.d.ts133789126660972515 0
 103C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\caniuse-lite\data\features\colr-v1.js133789126676573332 0
-67C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\src\index.html133789158806492404 0
+67C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\src\index.html133789577167159789 0
 64C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\src\scripts133788651738449238 1
 96C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\entities\lib\esm\decode.js.map133789126667500844 0
 84C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\tslib\package.json133789126661176573 0
@@ -3511,7 +3511,7 @@
 104C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\@parcel\core\test\fixtures\main-global133789126701391051 1
 121C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\@swc\helpers\_\_apply_decorated_descriptor\package.json133789126681156806 0
 99C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\@swc\helpers\_\index\package.json133789126687772968 0
-68C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\index.html133789158810677647 0
+68C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\index.html133789188673545184 0
 89C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\@parcel\watcher\scripts133789126668093227 1
 114C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs133789126687873722 0
 117C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\@swc\helpers\cjs\_class_apply_descriptor_update.cjs133789126663897555 0
@@ -4404,13 +4404,21 @@
 81C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\.bin\semver.cmd133789126719574472 0
 81C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\.bin\semver.ps1133789126719574472 0
 89C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\delorion-section3.018712f9.jpeg133789182291860372 0
+89C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\delorion-section3.8e07f940.jpeg133789188671342252 0
 100C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\exercicio_landinpage_filme_fav.59712999.js133789182291860372 0
 104C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\exercicio_landinpage_filme_fav.59712999.js.map133789182292458007 0
+85C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\hero.6f781a92.2651fba2.jpeg133789188672441835 0
+75C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\index.41e1a687.js133789188673545184 0
+79C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\index.41e1a687.js.map133789188673687657 0
 76C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\index.6d04d9e6.css133789182291860372 0
+76C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\index.79c2bf47.css133789188673545184 0
+80C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\index.79c2bf47.css.map133789188673687657 0
 75C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\index.995b6bf9.js133789143582068257 0
 79C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\index.995b6bf9.js.map133789143582148223 0
 79C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\relogio.232a4f4a.jpeg133789182291860372 0
+79C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\relogio.b02351ff.jpeg133789188671545056 0
 65C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\scripts133789182292780972 1
+80C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\section1.4e2bc1ae.jpeg133789188672441835 0
 64C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\styles133789182292791076 1
 73C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\styles\main.css133789182291860372 0
 77C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\dist\styles\main.css.map133789182292528918 0
