@@ -16,7 +16,7 @@
 104C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\type-fest\source\iterable-element.d.ts133789126663977705 0
 83C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\semver\preload.js133789126666653910 0
 91C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\dotenv\lib\env-options.js133789126659775581 0
-65C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\package.json133789584212616388 0
+65C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\package.json133789592009421818 0
 108C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\entities\lib\esm\decode_codepoint.d.ts.map133789126664800882 0
 95C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\node_modules\cosmiconfig\dist\merge.js.map133789126667172342 0
 70C:\Users\Gabriel\EBAC\exercicio_landinpage_filme_fav\package-lock.json133789584213134645 0
